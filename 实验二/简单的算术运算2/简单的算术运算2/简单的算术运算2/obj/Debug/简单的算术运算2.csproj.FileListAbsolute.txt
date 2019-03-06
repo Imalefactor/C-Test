@@ -1,0 +1,9 @@
+C:\Users\IMalefactor\Desktop\实验二\简单的算术运算2\简单的算术运算2\简单的算术运算2\bin\Debug\简单的算术运算2.exe.config
+C:\Users\IMalefactor\Desktop\实验二\简单的算术运算2\简单的算术运算2\简单的算术运算2\bin\Debug\简单的算术运算2.exe
+C:\Users\IMalefactor\Desktop\实验二\简单的算术运算2\简单的算术运算2\简单的算术运算2\bin\Debug\简单的算术运算2.pdb
+C:\Users\IMalefactor\Desktop\实验二\简单的算术运算2\简单的算术运算2\简单的算术运算2\obj\Debug\简单的算术运算2.csprojResolveAssemblyReference.cache
+C:\Users\IMalefactor\Desktop\实验二\简单的算术运算2\简单的算术运算2\简单的算术运算2\obj\Debug\简单的算术运算2.Form1.resources
+C:\Users\IMalefactor\Desktop\实验二\简单的算术运算2\简单的算术运算2\简单的算术运算2\obj\Debug\简单的算术运算2.Properties.Resources.resources
+C:\Users\IMalefactor\Desktop\实验二\简单的算术运算2\简单的算术运算2\简单的算术运算2\obj\Debug\简单的算术运算2.csproj.GenerateResource.Cache
+C:\Users\IMalefactor\Desktop\实验二\简单的算术运算2\简单的算术运算2\简单的算术运算2\obj\Debug\简单的算术运算2.exe
+C:\Users\IMalefactor\Desktop\实验二\简单的算术运算2\简单的算术运算2\简单的算术运算2\obj\Debug\简单的算术运算2.pdb

@@ -1,0 +1,9 @@
+C:\Users\IMalefactor\Desktop\实验二\3-2\猜数\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\IMalefactor\Desktop\实验二\3-2\猜数\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\IMalefactor\Desktop\实验二\3-2\猜数\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\IMalefactor\Desktop\实验二\3-2\猜数\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\IMalefactor\Desktop\实验二\3-2\猜数\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\IMalefactor\Desktop\实验二\3-2\猜数\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\IMalefactor\Desktop\实验二\3-2\猜数\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\IMalefactor\Desktop\实验二\3-2\猜数\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\IMalefactor\Desktop\实验二\3-2\猜数\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

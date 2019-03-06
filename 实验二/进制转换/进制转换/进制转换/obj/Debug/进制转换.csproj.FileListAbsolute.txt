@@ -1,0 +1,9 @@
+C:\Users\IMalefactor\Desktop\实验二\进制转换\进制转换\进制转换\bin\Debug\进制转换.exe.config
+C:\Users\IMalefactor\Desktop\实验二\进制转换\进制转换\进制转换\bin\Debug\进制转换.exe
+C:\Users\IMalefactor\Desktop\实验二\进制转换\进制转换\进制转换\bin\Debug\进制转换.pdb
+C:\Users\IMalefactor\Desktop\实验二\进制转换\进制转换\进制转换\obj\Debug\进制转换.csprojResolveAssemblyReference.cache
+C:\Users\IMalefactor\Desktop\实验二\进制转换\进制转换\进制转换\obj\Debug\进制转换.Form1.resources
+C:\Users\IMalefactor\Desktop\实验二\进制转换\进制转换\进制转换\obj\Debug\进制转换.Properties.Resources.resources
+C:\Users\IMalefactor\Desktop\实验二\进制转换\进制转换\进制转换\obj\Debug\进制转换.csproj.GenerateResource.Cache
+C:\Users\IMalefactor\Desktop\实验二\进制转换\进制转换\进制转换\obj\Debug\进制转换.exe
+C:\Users\IMalefactor\Desktop\实验二\进制转换\进制转换\进制转换\obj\Debug\进制转换.pdb

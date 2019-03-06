@@ -1,0 +1,45 @@
+1.select 学号,姓名,所在院系 from 学生
+
+2.select * from 课程
+
+3.select distinct 学号 from 选课
+
+4.select 课程名,学分数 from 课程 where 学分数>3
+
+5.select * from 学生 where (性别="女" AND 所在院系="体育" AND 是否党员=True)
+
+6.select * from 学生 where (性别="男" AND (所在院系="体育" OR 所在院系="经管"))
+
+7.select * from 学生 where 入学成绩>=500
+order by 入学成绩 asc
+
+8.select * from 学生 
+order by 所在院系,学号 desc
+
+9.select 学号,count(*) as 选课门数 from 选课
+group by 学号
+
+10.select 学号,count(*) as 选课门数 from 选课
+group by 学号 having 选课门数>1
+
+11.select 学生.学号,学生.姓名,选课.课程号 from 学生 left join 选课 on 学生.学号=选课.学号
+where 姓名="李明"
+
+12.select 学生.学号,学生.姓名,选课.课程号 课程名 from 学生 left join 选课 on 学生.学号=选课.学号
+where 课程名 in (select 课程名 from 课程 where 选课.课程号=课程.课程号)
+
+13.select 姓名 from 学生 where 出生日期< (select 出生日期 from 学生 where 姓名="刘德华")
+
+14.select * from 学生成绩表 where 计算机>any (select 英语 from 学生成绩表)
+
+15.select * from 学生成绩表 where 计算机>all (select 英语 from 学生成绩表)
+
+16.select 学号 from 选课 where 课程号="1101" and 学号 in (select 学号 from 选课 where 课程号="1102")
+
+17.INSERT INTO student(学号,姓名,性别)
+VALUES('08','张学友','男')
+
+18.update student set 入学成绩=入学成绩+20
+where 是否党员=true
+
+19.delete from student where 性别="男"

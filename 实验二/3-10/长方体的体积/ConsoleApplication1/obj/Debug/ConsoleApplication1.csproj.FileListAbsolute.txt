@@ -1,0 +1,5 @@
+C:\Users\IMalefactor\Desktop\实验二\3-10\长方体的体积\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\IMalefactor\Desktop\实验二\3-10\长方体的体积\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\IMalefactor\Desktop\实验二\3-10\长方体的体积\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\IMalefactor\Desktop\实验二\3-10\长方体的体积\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\IMalefactor\Desktop\实验二\3-10\长方体的体积\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
